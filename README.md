@@ -17,5 +17,7 @@ HTML
 CSS
 JAVASCRIPT
 
+Web application link: https://niveditanagar.github.io/Word-Guess-Game/
+
 Author:
 Nivedita Nagar
