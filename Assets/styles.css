@@ -8,3 +8,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.col-md-6 {
+    font-weight: bolder;
+    
+}
